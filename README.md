@@ -20,3 +20,5 @@ Upon running the program, the user is asked to input a student’s unique identi
 If the user does not select a valid option, the program will display an error message and ask the user to try again. Once the user has selected a valid option, the program will display the desired output. The advisor will then have all the relevant information they need to properly advise the student. The advisor would then ideally be able to print out a nicely formatted Word document of the just outputted student schedule.
 
 That is the basic premise of how VISOR will run. Additionally, we would like to attach a graphical user interface to the program including one search box which would serve to search the student ID and another box asking for the advisor to input their name. As mentioned, with such a program, VISOR will boost efficiency and accuracy making it possible to add more flexibility to current staff members.
+
+
