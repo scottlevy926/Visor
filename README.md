@@ -10,8 +10,11 @@ In our prototype, we are using a spreadsheet which contains each student’s gen
 Upon running the program, the user is asked to input a student’s unique identifier (this could be a name or ID#). If the program cannot match the input with any student in the spreadsheet, it will output an error message and ask the user to try again. If the program does match the input with a student, it will then give the user four options:
 
 -See the student’s remaining required courses
+
 -See all the courses the student is eligible to take the following semester based on completed prerequisites
+
 -See the student’s suggested courses for the following semester
+
 -See the student’s complete graduation program
 
 If the user does not select a valid option, the program will display an error message and ask the user to try again. Once the user has selected a valid option, the program will display the desired output. The advisor will then have all the relevant information they need to properly advise the student. The advisor would then ideally be able to print out a nicely formatted Word document of the just outputted student schedule.
